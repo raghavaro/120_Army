@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_prayerboard"
+        android:icon="@drawable/pray"
+        android:title="Prayer Board" />
+
+    <item
+        android:id="@+id/navigation_dailyprayer"
+        android:icon="@drawable/church"
+        android:title="Daily Prayer" />
+
+    <item
+        android:id="@+id/navigation_events"
+        android:icon="@drawable/event"
+        android:title="Events" />
+    <item
+        android:id="@+id/navigation_donate"
+        android:icon="@drawable/donate"
+        android:title="Donate" />
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/threedot"
+        android:title="More" />
+
+</menu>

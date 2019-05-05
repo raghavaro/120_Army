@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">120_Army</string>
+    <string name="ip">army120.appspot.com</string>
+    <string name="title_activity_mainpage">Mainpage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
